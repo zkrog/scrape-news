@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 jobs:
-  render:
+  scrape:
     runs-on: ubuntu-latest
     steps:
       # Checkout this repo
